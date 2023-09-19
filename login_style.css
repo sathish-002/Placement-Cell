@@ -1,0 +1,28 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* set entire body that is webpage */
+body{
+	background: #f8f9fa;
+		
+}
+/* set form background colour*/
+form{
+	
+	background-color:#808080;
+	border:1px solid black;
+	opacity:0.85;
+
+}
+/* set padding and size of th form */
+.form-container{
+	border-radius: 10px;
+	padding: 30px;
+}
+/* set heading color */
+h1{
+    color:black;
+    font-size: 300%;
+}
